@@ -1,2 +1,2 @@
-# courseraTest
-Coursera test repository 
+# Small text file parser
+ 
